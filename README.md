@@ -6,7 +6,7 @@
 - **ここが仕様の正本です。** 形式、欄、型、単位、範囲、エラーの扱いを書きます。
 - **運用の事情は書きません。** どの部品が運用中か、誰が保守しているか、境界の一覧と欠けは、運用リポジトリにあります。
   - 境界の一覧：[nro-45m-control の docs/interfaces.md](https://github.com/nobeyama-radio-observatory/nro-45m-control/blob/main/docs/interfaces.md)
-  - データ経路の運用の規則：nro-data の docs/data-path.md（準備中）
+  - データ経路の運用の規則：nro-data の [docs/data-path.md](https://github.com/nobeyama-radio-observatory/nro-data/blob/main/docs/data-path.md)
 
 この構成は、文脈基盤のハブの判断記録 [0013](https://github.com/nobeyama-radio-observatory/nro-context/blob/main/decisions/0013-観測系のインターフェース仕様をnro45-interfacesにまとめる.md) で決めました。
 
