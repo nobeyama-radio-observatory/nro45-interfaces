@@ -16,7 +16,7 @@
 
 | ディレクトリ | 名前 | 書く部品 → 読む部品 | 状態 |
 |---|---|---|---|
-| `observation-script/` | 観測指示書 | 観測指示書の作成ソフト（いまは nobs）→ COSMOS のマネージャー | 準備中 |
+| [`observation-script/`](observation-script/README.md) | 観測指示書 | 観測指示書の作成ソフト（いまは nobs）→ COSMOS のマネージャー | v1 の案 |
 | `timeseries/` | 観測時系列データ | 各装置の Local Controller → quick look、マージ | 準備中 |
 | `raw-data/` | 観測生データ | マージ → 保管、解析ソフト | 準備中 |
 | `delivery/` | 保管と配信の形式 | 保管 → 観測者 | 準備中 |
